@@ -1,4 +1,5 @@
-# hello_world
-for understanding git_hub's functionality 
+#update
 
-hi yash here this is first changes made by me for first time commit..
++Three task
++Four file
++Third task has two file for two diff method
